@@ -41,7 +41,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/jeremistadler/faster-image",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremistadler/faster-image.git"
+  },
   "author": "Gary Tokman <gary@trycandle.com> (https://candle.fi)",
   "license": "MIT",
   "bugs": {
