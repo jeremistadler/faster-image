@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/@candlefinance%2Ffaster-image.svg)](https://badge.fury.io/js/@candlefinance%2Ffaster-image)
+[![npm version](https://badge.fury.io/js/@jeremistadler%2Ffaster-image.svg)](https://badge.fury.io/js/@jeremistadler%2Ffaster-image)
 
 [![Watch the video](https://user-images.githubusercontent.com/12258850/227793826-c568d6b4-7cee-4c9f-b1ac-1beef3a2b3c5.png)](https://user-images.githubusercontent.com/12258850/227793749-d231199d-6058-4e6a-bb07-51b0ebfe9db5.mp4)
 
@@ -22,13 +22,13 @@ A performant way to render images in React Native (**iOS only**, Android default
 ## Installation
 
 ```sh
-yarn add @candlefinance/faster-image
+yarn add @jeremistadler/faster-image
 ```
 
 ## Usage
 
 ```js
-import { FasterImageView } from '@candlefinance/faster-image';
+import { FasterImageView } from '@jeremistadler/faster-image';
 
 <FasterImageView
   rounded={true}

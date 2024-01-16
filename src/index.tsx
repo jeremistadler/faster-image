@@ -79,7 +79,7 @@ export class AndroidDefaultImage extends React.Component<FasterImageProps> {
  * @param props: FasterImageProps
  * @returns FasterImageView
  * @example
- * import { FasterImageView } from '@candlefinance/faster-image';
+ * import { FasterImageView } from '@jeremistadler/faster-image';
  *
  * <FasterImageView
  *    url="https://cataas.com/cat?width=200&height=200"

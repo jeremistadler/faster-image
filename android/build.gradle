@@ -82,6 +82,6 @@ if (isNewArchitectureEnabled()) {
   react {
     jsRootDir = file("../src/")
     libraryName = "FasterImageView"
-    codegenJavaPackageName = "com.candlefinance.fasterimage"
+    codegenJavaPackageName = "com.jeremistadler.fasterimage"
   }
 }

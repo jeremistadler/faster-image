@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@candlefinance/faster-image": ["./src/index"]
+      "@jeremistadler/faster-image": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
